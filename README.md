@@ -1,7 +1,5 @@
 # Video-Calling-using-WebRTC
 Video based conference calling using WebRTC and node.js
-# Web-Chat-Using-Socket.io
-Web based chat application using socket.io &amp; node.js
 
 ## Tools and Programming language:
 - IDE:
